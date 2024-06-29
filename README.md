@@ -1,3 +1,4 @@
+```
 # Devopsproject
 dokerise python code
 sudo -i passwd
@@ -29,3 +30,4 @@ sudo docker images
 sudo docker push shivam09/pythonproject
 sudo docker push shivamsl09/pythonproject
 history -w /dev/stdout
+```
